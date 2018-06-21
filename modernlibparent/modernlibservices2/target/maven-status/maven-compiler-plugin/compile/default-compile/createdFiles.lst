@@ -1,0 +1,5 @@
+com\modernlib\author\dao\DataSourceFactory.class
+com\modernlib\author\dao\AuthorDAO.class
+com\modernlib\author\dao\AuthorDAOImpl.class
+com\modernlib\author\dao\AuthorDAOImpl$SingletonHelper.class
+com\modernlib\author\dto\Author.class

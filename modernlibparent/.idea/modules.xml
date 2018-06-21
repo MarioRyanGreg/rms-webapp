@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modernlibparent.iml" filepath="$PROJECT_DIR$/modernlibparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modernlibservices2/modernlibservices2.iml" filepath="$PROJECT_DIR$/modernlibservices2/modernlibservices2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modernlibweb/modernlibweb.iml" filepath="$PROJECT_DIR$/modernlibweb/modernlibweb.iml" />
+    </modules>
+  </component>
+</project>
